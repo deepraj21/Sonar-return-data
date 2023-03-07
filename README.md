@@ -7,11 +7,11 @@ the object is a rock and M if it is a mine (metal cylinder). The numbers in the 
 increasing order of aspect angle, but they do not encode the angle directly.
 
 #Summary
- Problem Definition (Sonar return data).
- Loading the Dataset.
- Analyze Data (same scale but different distributions of data).
- Evaluate Algorithms (KNN looked good).
- Evaluate Algorithms with Standardization (KNN and SVM looked good).
- Algorithm Tuning (K=1 for KNN was good, SVM with an RBF kernel and C=1.5 was best).
- Ensemble Methods (Bagging and Boosting, not quite as good as SVM).
- Finalize Model (use all training data and confirm using validation dataset).
+- Problem Definition (Sonar return data).
+- Loading the Dataset.
+- Analyze Data (same scale but different distributions of data).
+- Evaluate Algorithms (KNN looked good).
+- Evaluate Algorithms with Standardization (KNN and SVM looked good).
+- Algorithm Tuning (K=1 for KNN was good, SVM with an RBF kernel and C=1.5 was best).
+- Ensemble Methods (Bagging and Boosting, not quite as good as SVM).
+- Finalize Model (use all training data and confirm using validation dataset).
